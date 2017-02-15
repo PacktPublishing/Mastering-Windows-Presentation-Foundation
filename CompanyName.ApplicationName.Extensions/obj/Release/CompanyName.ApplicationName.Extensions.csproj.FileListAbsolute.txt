@@ -1,0 +1,9 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\Release\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\Release\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\Release\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\Release\CompanyName.ApplicationName.Extensions.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\Release\CompanyName.ApplicationName.Extensions.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\Release\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\Release\CompanyName.ApplicationName.Extensions.csprojResolveAssemblyReference.cache

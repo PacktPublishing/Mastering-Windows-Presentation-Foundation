@@ -1,0 +1,4 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\x86\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\x86\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\x86\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\x86\Debug\CompanyName.ApplicationName.Extensions.pdb

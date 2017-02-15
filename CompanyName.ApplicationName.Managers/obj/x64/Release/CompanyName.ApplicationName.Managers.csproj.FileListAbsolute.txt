@@ -1,0 +1,6 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\bin\x64\Release\CompanyName.ApplicationName.Managers.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\bin\x64\Release\CompanyName.ApplicationName.DataAccess.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\bin\x64\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\bin\x64\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\obj\x64\Release\CompanyName.ApplicationName.Managers.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Managers\obj\x64\Release\CompanyName.ApplicationName.Managers.dll

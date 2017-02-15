@@ -1,0 +1,2 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\x64\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\x64\Release\CompanyName.ApplicationName.Extensions.dll

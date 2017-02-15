@@ -1,0 +1,4 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\x86\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\x86\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\x86\Release\CompanyName.ApplicationName.DataModels.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\x86\Release\CompanyName.ApplicationName.DataModels.dll

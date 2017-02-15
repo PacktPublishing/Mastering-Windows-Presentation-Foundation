@@ -1,0 +1,11 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\x86\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\x86\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\Themes\Generic.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.Cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x86\Debug\CompanyName.ApplicationName.CustomControls.pdb

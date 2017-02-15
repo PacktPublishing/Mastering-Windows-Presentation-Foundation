@@ -1,0 +1,5 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Converters\bin\x86\Release\CompanyName.ApplicationName.Converters.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Converters\bin\x86\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Converters\bin\x86\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Converters\obj\x86\Release\CompanyName.ApplicationName.Converters.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Converters\obj\x86\Release\CompanyName.ApplicationName.Converters.dll

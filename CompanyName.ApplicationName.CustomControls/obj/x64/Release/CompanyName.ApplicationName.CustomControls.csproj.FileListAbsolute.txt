@@ -1,0 +1,9 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\x64\Release\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\Themes\Generic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.Cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\x64\Release\CompanyName.ApplicationName.CustomControls.dll

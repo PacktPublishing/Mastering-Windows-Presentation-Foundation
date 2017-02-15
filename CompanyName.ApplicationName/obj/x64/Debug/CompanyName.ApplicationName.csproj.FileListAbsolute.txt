@@ -1,0 +1,34 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.exe.config
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.exe
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Converters.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Models.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Models.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.csprojResolveAssemblyReference.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\Default Styles 2.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\Default Styles.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\MainWindow.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\App.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\App.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.Properties.Resources.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.csproj.GenerateResource.Cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.exe
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Debug\CompanyName.ApplicationName.pdb

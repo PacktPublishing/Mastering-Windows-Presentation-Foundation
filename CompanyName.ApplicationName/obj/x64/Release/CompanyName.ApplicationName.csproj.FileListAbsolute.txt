@@ -1,0 +1,23 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.exe.config
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.exe
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Converters.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Managers.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Models.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.ViewModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Views.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\bin\x64\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\Default Styles 2.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\Default Styles.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\MainWindow.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\App.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\MainWindow.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\App.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName.Properties.Resources.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName.csproj.GenerateResource.Cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName\obj\x64\Release\CompanyName.ApplicationName.exe

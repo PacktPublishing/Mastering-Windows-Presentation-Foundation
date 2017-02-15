@@ -4,8 +4,6 @@ This is the code repository for [Mastering Windows Presentation Foundation](http
 Windows Presentation Foundation is rich in possibilities when it comes to delivering an excellent user experience. This book will show you how to build professional-grade applications that look great and work smoothly.
 
 ##Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
 This code bundle represents all of the main coding classes that were introduced in the Mastering Windows Presentation Foundation book.
 
 The folder structure follows the two folder structure diagrams in chapter 1, A Smarter Way of Working with WPF.

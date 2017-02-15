@@ -1,0 +1,23 @@
+F:\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\Test.CompanyName.ApplicationName.Mocks.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\Test.CompanyName.ApplicationName.Mocks.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\Test.CompanyName.ApplicationName.Mocks.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\Test.CompanyName.ApplicationName.Mocks.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.csprojResolveAssemblyReference.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\Test.CompanyName.ApplicationName.Mocks\obj\Debug\Test.CompanyName.ApplicationName.Mocks.pdb

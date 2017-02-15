@@ -1,7 +1,8 @@
 #Mastering Windows Presentation Foundation
 This is the code repository for [Mastering Windows Presentation Foundation](https://www.packtpub.com/application-development/mastering-windows-presentation-foundation?utm_source=github&utm_medium=repository&utm_campaign=9781785883002), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Go to Mapt
+Windows Presentation Foundation is rich in possibilities when it comes to delivering an excellent user experience. This book will show you how to build professional-grade applications that look great and work smoothly.
+
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 

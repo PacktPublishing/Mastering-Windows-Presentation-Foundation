@@ -1,0 +1,116 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Views.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Views.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Converters.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Managers.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.ViewModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Models.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Converters.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Managers.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.ViewModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Models.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\BitRateView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\WeightMeasurementsView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\BitRateView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\AddressControl.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FeedbackControl.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FolderPathEditField.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UserView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\WeightMeasurementsView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\AddressControl.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FeedbackControl.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FolderPathEditField.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UserView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Views.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Views.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Converters.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Managers.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.ViewModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Models.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Converters.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.CustomControls.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.DataModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Extensions.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Managers.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.ViewModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.Models.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\BitRateView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_Basic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\WeightMeasurementsView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\BitRateView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\AddressControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\CalloutWindow.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\BorderlessWindow.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FeedbackControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FolderPathEditField.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\GlowButton.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\MainView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_Basic.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TestView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TriggerView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UsersView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UserView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\WeightMeasurementsView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views_MarkupCompile.lref
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\AddressControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\CalloutWindow.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\BorderlessWindow.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FeedbackControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FolderPathEditField.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\GlowButton.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\MainView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TestView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TriggerView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UsersView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\UserView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\CompanyName.ApplicationName.Views.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_NotifyBasic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_Advanced.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\AsyncView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FreezableControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\DrawingView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_NotifyBasic.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_NotifyAdvanced.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_Advanced.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\AsyncView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\FreezableControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\DrawingView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView_NotifyAdvanced.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Release\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\CalloutWindow.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\BorderlessWindow.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\DrawingView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TextView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\CalloutWindow.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\Controls\BorderlessWindow.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\DrawingView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TextView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TextView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\TextView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductNotifyView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductViewExtended.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductNotifyView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductNotifyViewExtended.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductViewExtended.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Release\ProductNotifyViewExtended.baml

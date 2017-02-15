@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="CompanyName.ApplicationName.Views.Controls.FolderPathEditField"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:Controls="clr-namespace:CompanyName.ApplicationName.Views.Controls"
+    mc:Ignorable="d" d:DesignHeight="28" d:DesignWidth="300">
+    <TextBox Grid.Column="0" Name="FolderPathTextBox" Text="{Binding FolderPath, RelativeSource={RelativeSource AncestorType={x:Type Controls:FolderPathEditField}}, FallbackValue='', UpdateSourceTrigger=PropertyChanged}" Cursor="Arrow" PreviewMouseLeftButtonUp="TextBox_PreviewMouseLeftButtonUp" />
+</UserControl>

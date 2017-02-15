@@ -1,0 +1,8 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.ViewModels.dll.config
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.ViewModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.Managers.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\bin\x86\Release\CompanyName.ApplicationName.Models.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\obj\x86\Release\CompanyName.ApplicationName.ViewModels.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.ViewModels\obj\x86\Release\CompanyName.ApplicationName.ViewModels.dll

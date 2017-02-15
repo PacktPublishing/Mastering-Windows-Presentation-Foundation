@@ -1,0 +1,6 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\x86\Release\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\x86\Release\CompanyName.ApplicationName.Resources.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\x86\Release\Styles\Control Styles.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\x86\Release\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\x86\Release\CompanyName.ApplicationName.Resources.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\x86\Release\CompanyName.ApplicationName.Resources.dll

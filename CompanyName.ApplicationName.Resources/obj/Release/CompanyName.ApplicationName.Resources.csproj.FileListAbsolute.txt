@@ -1,0 +1,15 @@
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Release\CompanyName.ApplicationName.Resources.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Release\CompanyName.ApplicationName.Resources.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\Styles\Control Styles.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Release\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Release\CompanyName.ApplicationName.Resources.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\Styles\Control Styles.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Release\CompanyName.ApplicationName.Resources.pdb
